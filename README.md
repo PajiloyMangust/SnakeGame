@@ -18,4 +18,5 @@ Today we will create the most stubborn snake game in history!!! It will be drawn
 █████░▀██▀▀░░░░░░░░░▀▀██▀░██████
 ██████▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄███████
 ████████████████████████████████
+
 And you ask with tears in your eyes: Johnny, why??? And I will answer simply: because we can ...
